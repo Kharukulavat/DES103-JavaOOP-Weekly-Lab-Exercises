@@ -1,4 +1,3 @@
-package LAB01_INTRO_TO_OOP.Rectangle;
 //Lab01 Exercise 2
 public class TestRectangle {
     public static void main(String[] args) {

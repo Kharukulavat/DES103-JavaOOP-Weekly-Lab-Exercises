@@ -13,11 +13,11 @@ public class TestBankAccount {
 
         BankAccount.deposit(15);
 
-        System.out.println("Balance: " + BankAccount.balance);
+        System.out.println("Balance: " + BankAccount.balance + " miilion USD");
 
         BankAccount.withdraw(5);
 
-        System.out.println("Balance: " + BankAccount.balance);
+        System.out.println("Balance: " + BankAccount.balance + " million USD");
 
         System.out.println(BankAccount.convertBalanceToTHB());
 

@@ -1,4 +1,3 @@
-package LAB01_INTRO_TO_OOP.Rectangle;
 //Lab01 Exercise 1 
 public class Rectangle {
     double width;
