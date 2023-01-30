@@ -1,3 +1,4 @@
+//Lab02 Exercise 3 
 public class Address {
     String houseNo = "-";
     String soi = "-";

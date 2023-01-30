@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "LAB01_INTRO_TO_OOP/src/Rectangle",
         "LAB01_INTRO_TO_OOP/src/BankAccount",
-        "LAB01_INTRO_TO_OOP/src/Rectangle"
+        "LAB02_PeopleID/src"
     ]
 }

@@ -1,3 +1,4 @@
+//Lab02 Exercise 1
 public class Date {
     int day;
     int month;

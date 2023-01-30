@@ -1,3 +1,4 @@
+//Lab02 Exercise 4
 public class peopleID {
     Name name;
     String ID;
